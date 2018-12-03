@@ -20,7 +20,7 @@ var massPopChart = new Chart(myChart, {
             1145,
             1565,
             1170,
-            1800
+            1950
           ],
             backgroundColor: [
             'rgba(255, 99, 132, 0.6)',
